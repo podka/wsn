@@ -1,0 +1,7 @@
+token=Mzc2Mzg3MDMzNTMyMjAzMDA4.XQerDg.318_LTB9HbwCxJdNiZh1z0WtoWQ
+owner=345356239087337473
+
+ prefix=w
+game= whelp
+stayinchannel=true
+songinstatus=true 
